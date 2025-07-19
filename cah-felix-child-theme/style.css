@@ -1,0 +1,25 @@
+/*
+  Theme Name: Cah Felix Child 2018
+  Description: Tema para o site de Cah Felix
+  Description: Cah Felix Theme
+  Tags: creative, portfolio, responsive, cahfelix, cah felix
+  Author: Cah Felix
+  Author URI: https://cahfelix.com/
+  Version: 1.0.0
+  Template: cah-felix-father-theme
+*/
+
+
+
+.post_text ol {
+    margin: 30px 0 30px 22px;
+}
+
+.post_text ol strong, .post_text ol b {
+    font-weight: bold;
+    background: #e1e1e1;
+    padding: 2px;
+}
+    
+
+

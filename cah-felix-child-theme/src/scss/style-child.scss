@@ -1,0 +1,350 @@
+@import "fonts";
+
+
+/* escondendo categorias da home */
+.projects_holder_outer .projects_holder article.mix .portfolio_description .project_category {display: none;}
+
+.ocultar, .header_inner_right {display: none;}
+
+.redes-sociais-rodape{margin: 10px 0; display: flex;}
+.redes-sociais-rodape span a span.icon-stack {background-color: #464646;}
+.redes-sociais-rodape span a span.icon-stack i {color: #a9a9a9;}
+.redes-sociais-rodape span.social_icon_holder {margin: 0 2px;}
+
+.postList {margin-left: 40px;}
+.post_text p {
+    font-size: 16px; 
+    line-height: 28px; 
+    margin-bottom: 12px;
+}
+
+.post_text ul {margin: 30px 0 30px 22px;}
+.post_text li {font-size: 16px; line-height: 28px;}
+.post_text h3 {font-size: 22px; margin: 40px 0 10px; line-height: 30px;}
+.post_text img { border: 1px solid #eee; margin-bottom: 14px; margin-top: 14px}
+.post_text hr {border: none; border-bottom: 1px solid #eee; margin: 14px 0;}
+.blog_holder article .post_text p a {
+    color: #f54325;
+
+    &:hover {
+        background-color: #f54325;
+        color: #fff
+    }
+}
+.blog_holder article .post_text p a.bt_link {
+    background: #f54325;
+    padding: 10px;
+    display: inline-block;
+	color: #fff !important;
+	margin: 10px 0;
+}
+.column_inner .blog_holder article .post_text p a {
+	color: #f54325;
+    text-decoration: underline;
+}
+
+
+/* Modificacoes para single blog*/
+.single-post .post_text p {
+    font-size: 1.25rem;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: .01rem;
+    margin: 0 auto 1.875rem;
+}
+
+.single-post .post_text li {
+    font-size: 1.25rem;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.5;
+    letter-spacing: .01rem;
+    font-weight: 300;
+    font-style: normal;
+    padding: 10px 0 10px 10px;
+}
+
+.single-post .blog_single {
+    max-width: 960px;
+    margin: auto;
+}
+
+.single-post .post_title_blog {
+    margin: 30px 0;
+    font-size: 50px;
+    line-height: initial;
+}
+.single-post .title {
+    height: 285px;
+}
+
+
+/* codificacao posts */
+.codificacao {background: #333333; padding: 10px 10px 20px 10px}
+.codificacao {background: #333333; padding: 10px 10px 20px 10px}
+.codigo_verde {color: #95e454;}
+.codigo_azul {color:#66d9e7;}
+.codigo_branco {color: #ffffff;}
+.codigo_roxo {color: #d367d1;}
+.codigo_espaco {padding-left: 20px;}
+
+.prettyprint {padding: 10px 15px;}
+
+pre {
+    background: #333333;
+    color: #fff;
+    padding: 15px !important;
+    margin: 30px 0;
+    /*border-radius: 5px;*/
+    white-space: pre-wrap;
+}
+pre a {
+    color: #fff;
+}
+
+pre p {display: none;}
+
+code.comentarios {
+	color: #929292;
+}
+
+
+/* share */
+.blog_social_and_comments {    
+    border-bottom: 1px solid #ededed;
+    border-top: 1px solid #ededed;
+    padding: 20px 0;
+}
+
+/* .blog_social_and_comments p {float: left;} */
+
+
+ul.social-share{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul.social-share li{
+    list-style:none;
+    padding: 5px;
+    line-height: 30px;
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+    margin: 0 0 4px 2px;      
+}
+
+ul.social-share li a i {
+    color: #fff;
+}
+
+ul.social-share .facebook {background: #204385;}
+ul.social-share .twitter {background: #2aa9e0;}
+ul.social-share .google-plus {background: #d3492c;}
+ul.social-share .pinterest {background:#ca2128;}
+ul.social-share .linkedin {background:#02669a;}
+ul.social-share .email {background:#19232d; }
+ul.social-share .whatsapp {background:#20b038; }
+
+
+ul.social-share li a, ul.social-share li a:hover{
+    text-decoration:none;
+}
+
+#disqus_thread {
+    margin-bottom: 30px;
+}
+
+.single-post .post_text p, .single-post .post_text li {
+    color: #333333;
+}
+
+.page h3 {
+    margin-top: 10px;
+    // background-color: green;
+}
+
+
+@media only screen and (max-width: 768px){ 
+    footer .column_inner {
+        min-height: auto !important;
+        margin: 20px 0;
+    }
+
+    .footer_bottom {
+        padding: 20px 10px;
+        /* correcao bug do tema */
+    }
+    .footer_bottom .textwidget {
+        line-height: normal;
+        /* correcao bug do tema */
+    }
+
+    .single-post .title {
+        height: auto;
+        line-height: initial;
+        padding: 20px 0;
+    }
+
+    .single-post .container_inner {
+        width: auto;
+        margin: 0 25px;
+    }
+
+    .single-post .post_text p, .single-post .post_text li {
+        font-size: 1.1rem;
+    }
+
+    .single-post .post_title_blog { 
+        font-size: 30px;
+        line-height: initial;
+        margin: 5px 0;
+    }
+
+    .single-post .separator.small {
+        display: none;
+    }
+
+    .single-post .blog_holder article .post_image img {
+        margin: 0 -30px 30px;
+        width: calc(100% + 60px);
+        max-width: calc(100% + 60px);
+    }
+
+    .single-post .container-inner {
+        width: auto;
+        margin: 20px;
+    }
+
+    .post_text img {
+        margin-right: -30px;
+        margin-left: -30px;
+        width: calc(100% + 60px);
+        max-width: calc(100% + 60px);
+    }
+
+    .wpb_content_element.wpb_video_widget {
+        margin-right: -30px;
+        margin-left: -30px;
+        width: calc(100% + 60px)
+    }
+}
+
+/**
+  * Removendo plugin flexslide e criando um banner manual
+  */
+.banner {
+    padding: 60px;
+    height: 360px;
+    background: url(https://cahfelix.com/wp-content/uploads/2018/02/cahfelix-02.jpg);
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: flex-end;
+}
+
+.banner h1 {
+    color: #fff;
+    font-size: 26px;
+    font-family: Oswald;
+    margin-bottom: 30px;
+    // text-shadow: 2px 2px #000;
+    text-shadow: 1px 2px #000;
+
+    @media only screen and (min-width: 768px){ 
+        font-size: 46px;
+    }
+}
+
+.banner {
+
+    h2 {
+        color: #fff;
+        font-size: 18px;
+        font-family: 'Open Sans', sans-serif;
+        margin-bottom: 30px;
+        text-shadow: 1px 2px #000;
+
+        @media only screen and (min-width: 768px){ 
+            font-size: 20px;
+        }
+    }   
+
+
+    &__button {
+        background: rgb(245, 67, 37);
+        color: #fff;
+        display: table;
+        padding: 10px;
+        width: 75px;
+        text-align: center;
+    
+        &:hover {
+            color: #fff;
+            text-decoration: underline;
+        }
+    }
+}
+
+
+.conheca {
+    font-family: Oswald;
+    font-size: 50px;
+    line-height: 50px;
+    font-style: normal;
+    font-weight: 400;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 0px;
+    margin: 20px;
+    text-align: center;
+}
+
+.testimonials .testimonial_nav li a {
+    height: 15px;
+    width: 15px;
+    margin: 0 13px 0 0;
+
+    @media only screen and (min-width: 768px){ 
+        margin: 0 15px 0 0;
+    }
+}
+
+.submit-alter-jquery {
+    text-align: right;
+    padding-bottom: 25px;
+}
+
+/**
+  * Estilizando pagina sobre mim
+  */
+.page-id-4510 p {
+    font-size: 16px;
+    line-height: 28px;
+    margin-bottom: 12px;
+}
+.page-id-4510 h2 + p {
+    margin-top: 14px;
+}
+
+.page-id-4510 .vc_custom_1550426998826 h6 {
+    padding-top: 10px;
+    margin-top: 20px;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.page-id-4510 .vc_custom_1550426998826 p {
+    padding: 20px 0 30px 0;
+    border-bottom: 1px solid #ccc
+}
+
+
+/**
+  * Removendo filtro do portfolio
+  */
+.page-id-1384 .filter_holder {
+    display: none;
+}
