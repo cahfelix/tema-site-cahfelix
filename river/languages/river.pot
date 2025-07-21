@@ -1,0 +1,3033 @@
+# Copyright (C) 2021 Qode Interactive
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: River 2.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/river\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-08T12:47:38+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: river\n"
+
+#. Theme Name of the theme
+msgid "River"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://demo.qodeinteractive.com/river/"
+msgstr ""
+
+#. Description of the theme
+msgid "River Theme"
+msgstr ""
+
+#. Author of the theme
+msgid "Qode Interactive"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.qodeinteractive.com/"
+msgstr ""
+
+#: 404.php:7
+msgid "The page you requested does not exist"
+msgstr ""
+
+#: 404.php:9
+msgid "Back to homepage"
+msgstr ""
+
+#: archive.php:22
+#: archive.php:39
+#: archive.php:57
+#: archive.php:74
+#: archive.php:97
+#: archive.php:114
+#: archive.php:132
+#: archive.php:149
+#: archive.php:181
+#: archive.php:198
+#: archive.php:215
+#: archive.php:232
+#: blog-large-image-whole-post.php:25
+#: blog-large-image-whole-post.php:43
+#: blog-large-image-whole-post.php:70
+#: blog-large-image.php:25
+#: blog-large-image.php:43
+#: blog-large-image.php:70
+#: blog-masonry.php:26
+#: blog-masonry.php:45
+#: blog-masonry.php:73
+#: blog-small-image.php:26
+#: blog-small-image.php:44
+#: blog-small-image.php:71
+#: category.php:23
+#: category.php:40
+#: category.php:58
+#: category.php:77
+#: category.php:100
+#: category.php:117
+#: category.php:135
+#: category.php:152
+#: category.php:184
+#: category.php:201
+#: category.php:218
+#: category.php:235
+#: home.php:21
+#: home.php:38
+#: home.php:56
+#: home.php:75
+#: home.php:98
+#: home.php:115
+#: home.php:133
+#: home.php:150
+#: home.php:182
+#: home.php:199
+#: home.php:216
+#: home.php:233
+#: index.php:22
+#: index.php:39
+#: index.php:57
+#: index.php:74
+#: index.php:97
+#: index.php:114
+#: index.php:132
+#: index.php:149
+#: index.php:181
+#: index.php:198
+#: index.php:215
+#: index.php:232
+#: search.php:18
+#: search.php:35
+#: search.php:61
+msgid "No posts were found."
+msgstr ""
+
+#. Template Name of the theme
+msgid "Blog Large Image Whole Post"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Blog Large Image"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Blog Masonry"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Blog Small Image"
+msgstr ""
+
+#: blog_large_image-loop.php:34
+#: blog_large_image-loop.php:78
+#: blog_large_image-loop.php:120
+#: blog_large_image-loop.php:121
+#: blog_large_image-loop.php:171
+#: blog_large_image-loop.php:213
+#: blog_large_image-loop.php:214
+#: blog_large_image-loop.php:252
+#: blog_large_image_whole_post-loop.php:34
+#: blog_large_image_whole_post-loop.php:67
+#: blog_large_image_whole_post-loop.php:98
+#: blog_large_image_whole_post-loop.php:99
+#: blog_large_image_whole_post-loop.php:151
+#: blog_large_image_whole_post-loop.php:184
+#: blog_large_image_whole_post-loop.php:185
+#: blog_large_image_whole_post-loop.php:223
+#: blog_masonry-loop.php:22
+#: blog_masonry-loop.php:23
+#: blog_masonry-loop.php:24
+#: blog_masonry-loop.php:64
+#: blog_masonry-loop.php:65
+#: blog_masonry-loop.php:66
+#: blog_masonry-loop.php:102
+#: blog_masonry-loop.php:103
+#: blog_masonry-loop.php:104
+#: blog_masonry-loop.php:152
+#: blog_masonry-loop.php:153
+#: blog_masonry-loop.php:154
+#: blog_masonry-loop.php:190
+#: blog_masonry-loop.php:191
+#: blog_masonry-loop.php:192
+#: blog_masonry-loop.php:228
+#: blog_masonry-loop.php:229
+#: blog_masonry-loop.php:230
+#: blog_single-loop.php:25
+#: blog_single-loop.php:26
+#: blog_single-loop.php:46
+#: blog_single-loop.php:47
+#: blog_single-loop.php:65
+#: blog_single-loop.php:66
+#: blog_single-loop.php:107
+#: blog_single-loop.php:108
+#: blog_single-loop.php:128
+#: blog_single-loop.php:129
+#: blog_single-loop.php:158
+#: blog_single-loop.php:159
+#: blog_small_image-loop.php:22
+#: blog_small_image-loop.php:71
+#: blog_small_image-loop.php:136
+#: blog_small_image-loop.php:137
+#: blog_small_image-loop.php:176
+#: blog_small_image-loop.php:241
+#: blog_small_image-loop.php:242
+#: blog_small_image-loop.php:269
+msgid " | "
+msgstr ""
+
+#: blog_large_image-loop.php:44
+#: blog_large_image-loop.php:88
+#: blog_large_image-loop.php:181
+#: blog_large_image-loop.php:262
+#: blog_large_image_whole_post-loop.php:38
+#: blog_large_image_whole_post-loop.php:71
+#: blog_large_image_whole_post-loop.php:157
+#: blog_large_image_whole_post-loop.php:227
+#: blog_small_image-loop.php:47
+#: blog_small_image-loop.php:96
+#: blog_small_image-loop.php:201
+#: blog_small_image-loop.php:294
+msgid "READ MORE"
+msgstr ""
+
+#: blog_large_image-loop.php:59
+#: blog_large_image_whole_post-loop.php:48
+#: blog_masonry-loop.php:57
+#: blog_single-loop.php:40
+msgid "Your browser don't support audio player"
+msgstr ""
+
+#: blog_masonry-loop.php:24
+#: blog_masonry-loop.php:66
+#: blog_masonry-loop.php:104
+#: blog_masonry-loop.php:154
+#: blog_masonry-loop.php:192
+#: blog_masonry-loop.php:230
+msgid "No comment"
+msgstr ""
+
+#: blog_masonry-loop.php:24
+#: blog_masonry-loop.php:66
+#: blog_masonry-loop.php:104
+#: blog_masonry-loop.php:154
+#: blog_masonry-loop.php:192
+#: blog_masonry-loop.php:230
+#: blog_single-loop.php:204
+#: comments.php:11
+msgid "Comment"
+msgstr ""
+
+#: blog_masonry-loop.php:24
+#: blog_masonry-loop.php:66
+#: blog_masonry-loop.php:104
+#: blog_masonry-loop.php:154
+#: blog_masonry-loop.php:192
+#: blog_masonry-loop.php:230
+#: blog_single-loop.php:204
+#: comments.php:11
+msgid "Comments"
+msgstr ""
+
+#: blog_single-loop.php:172
+msgid "TAGS "
+msgstr ""
+
+#: blog_single-loop.php:184
+msgid "AUTHOR"
+msgstr ""
+
+#: blog_single-loop.php:204
+msgid "No Comment"
+msgstr ""
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:11
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:21
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments.php:35
+msgid "Post a Comment"
+msgstr ""
+
+#: comments.php:36
+msgid "Post A Reply to %s"
+msgstr ""
+
+#: comments.php:37
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:38
+msgid "Submit"
+msgstr ""
+
+#: comments.php:39
+msgid "Write your comment here..."
+msgstr ""
+
+#: comments.php:43
+msgid "Your full name"
+msgstr ""
+
+#: comments.php:44
+msgid "E-mail address"
+msgstr ""
+
+#: comments.php:45
+#: contact-page.php:65
+msgid "Website"
+msgstr ""
+
+#: comments.php:47
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#. Template Name of the theme
+msgid "Contact Page"
+msgstr ""
+
+#: contact-page.php:39
+#: contact-page.php:97
+msgid "CONTACT US"
+msgstr ""
+
+#: contact-page.php:44
+msgid "First Name *"
+msgstr ""
+
+#: contact-page.php:49
+msgid "Last Name *"
+msgstr ""
+
+#: contact-page.php:54
+#: contact-page.php:60
+msgid "Email *"
+msgstr ""
+
+#: contact-page.php:71
+msgid "Message"
+msgstr ""
+
+#: contact-page.php:124
+msgid "This is a required field"
+msgstr ""
+
+#: contact-page.php:131
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: contact-page.php:158
+msgid "THANK YOU!"
+msgstr ""
+
+#: contact-page.php:158
+msgid "Your email was successfully sent. We will contact you as soon as possible."
+msgstr ""
+
+#: contact-page.php:165
+msgid "Invalid Captcha"
+msgstr ""
+
+#: contact-page.php:168
+msgid "Email server problem"
+msgstr ""
+
+#: extendvc/extend-vc.php:113
+#: extendvc/extend-vc.php:1195
+#: extendvc/extend-vc.php:1413
+#: extendvc/extend-vc.php:1501
+#: extendvc/extend-vc.php:1635
+#: extendvc/extend-vc.php:1680
+#: extendvc/extend-vc.php:2063
+#: extendvc/extend-vc.php:2159
+#: extendvc/extend-vc.php:2300
+#: extendvc/extend-vc.php:2322
+#: extendvc/extend-vc.php:2399
+#: extendvc/extend-vc.php:3330
+#: extendvc/extend-vc.php:3416
+msgid "Content"
+msgstr ""
+
+#: extendvc/extend-vc.php:129
+msgid "Elements Shows From Left Side"
+msgstr ""
+
+#: extendvc/extend-vc.php:130
+msgid "Elements Shows From Right Side"
+msgstr ""
+
+#: extendvc/extend-vc.php:131
+msgid "Elements Shows From Top Side"
+msgstr ""
+
+#: extendvc/extend-vc.php:132
+msgid "Elements Shows From Bottom Side"
+msgstr ""
+
+#: extendvc/extend-vc.php:133
+msgid "Elements Shows From Fade"
+msgstr ""
+
+#: extendvc/extend-vc.php:139
+#: extendvc/extend-vc.php:187
+#: extendvc/extend-vc.php:2345
+msgid "Style"
+msgstr ""
+
+#: extendvc/extend-vc.php:142
+msgid "Accordion"
+msgstr ""
+
+#: extendvc/extend-vc.php:143
+msgid "Toggle"
+msgstr ""
+
+#: extendvc/extend-vc.php:144
+msgid "Accordion with icon"
+msgstr ""
+
+#: extendvc/extend-vc.php:145
+msgid "Toggle with icon"
+msgstr ""
+
+#: extendvc/extend-vc.php:152
+#: extendvc/extend-vc.php:667
+#: extendvc/extend-vc.php:842
+#: extendvc/extend-vc.php:1157
+#: extendvc/extend-vc.php:1240
+#: extendvc/extend-vc.php:1343
+#: extendvc/extend-vc.php:1473
+#: extendvc/extend-vc.php:1823
+#: extendvc/extend-vc.php:1954
+#: extendvc/extend-vc.php:2276
+#: extendvc/extend-vc.php:2510
+#: extendvc/extend-vc.php:2637
+#: extendvc/extend-vc.php:3007
+msgid "Background Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:160
+#: extendvc/extend-vc.php:688
+#: extendvc/extend-vc.php:1083
+#: extendvc/extend-vc.php:1446
+#: extendvc/extend-vc.php:1904
+#: extendvc/extend-vc.php:2409
+#: extendvc/extend-vc.php:2442
+#: extendvc/extend-vc.php:2538
+#: extendvc/extend-vc.php:2699
+#: includes/qode-edit-custom-walker.php:218
+msgid "Icon"
+msgstr ""
+
+#: extendvc/extend-vc.php:170
+#: extendvc/extend-vc.php:994
+#: extendvc/extend-vc.php:1397
+#: extendvc/extend-vc.php:1576
+#: extendvc/extend-vc.php:1716
+#: extendvc/extend-vc.php:1799
+#: extendvc/extend-vc.php:2830
+#: extendvc/extend-vc.php:2965
+#: extendvc/extend-vc.php:3030
+#: extendvc/extend-vc.php:3290
+msgid "Title Tag"
+msgstr ""
+
+#: extendvc/extend-vc.php:174
+#: extendvc/extend-vc.php:998
+#: extendvc/extend-vc.php:1401
+#: extendvc/extend-vc.php:1580
+#: extendvc/extend-vc.php:1720
+#: extendvc/extend-vc.php:1803
+#: extendvc/extend-vc.php:2834
+#: extendvc/extend-vc.php:2969
+#: extendvc/extend-vc.php:3034
+#: extendvc/extend-vc.php:3294
+msgid "h2"
+msgstr ""
+
+#: extendvc/extend-vc.php:175
+#: extendvc/extend-vc.php:999
+#: extendvc/extend-vc.php:1402
+#: extendvc/extend-vc.php:1581
+#: extendvc/extend-vc.php:1721
+#: extendvc/extend-vc.php:1804
+#: extendvc/extend-vc.php:2835
+#: extendvc/extend-vc.php:2970
+#: extendvc/extend-vc.php:3035
+#: extendvc/extend-vc.php:3295
+msgid "h3"
+msgstr ""
+
+#: extendvc/extend-vc.php:176
+#: extendvc/extend-vc.php:1000
+#: extendvc/extend-vc.php:1403
+#: extendvc/extend-vc.php:1582
+#: extendvc/extend-vc.php:1722
+#: extendvc/extend-vc.php:1805
+#: extendvc/extend-vc.php:2836
+#: extendvc/extend-vc.php:2971
+#: extendvc/extend-vc.php:3036
+#: extendvc/extend-vc.php:3296
+msgid "h4"
+msgstr ""
+
+#: extendvc/extend-vc.php:177
+#: extendvc/extend-vc.php:1001
+#: extendvc/extend-vc.php:1404
+#: extendvc/extend-vc.php:1583
+#: extendvc/extend-vc.php:1723
+#: extendvc/extend-vc.php:1806
+#: extendvc/extend-vc.php:2837
+#: extendvc/extend-vc.php:2972
+#: extendvc/extend-vc.php:3037
+#: extendvc/extend-vc.php:3297
+msgid "h5"
+msgstr ""
+
+#: extendvc/extend-vc.php:178
+#: extendvc/extend-vc.php:1002
+#: extendvc/extend-vc.php:1405
+#: extendvc/extend-vc.php:1584
+#: extendvc/extend-vc.php:1724
+#: extendvc/extend-vc.php:1807
+#: extendvc/extend-vc.php:2838
+#: extendvc/extend-vc.php:2973
+#: extendvc/extend-vc.php:3038
+#: extendvc/extend-vc.php:3298
+msgid "h6"
+msgstr ""
+
+#: extendvc/extend-vc.php:190
+msgid "Horizontal Center"
+msgstr ""
+
+#: extendvc/extend-vc.php:191
+msgid "Boxed"
+msgstr ""
+
+#: extendvc/extend-vc.php:192
+msgid "Vertical Left"
+msgstr ""
+
+#: extendvc/extend-vc.php:193
+msgid "Vertical Right"
+msgstr ""
+
+#: extendvc/extend-vc.php:203
+msgid "Column Number"
+msgstr ""
+
+#: extendvc/extend-vc.php:215
+#: extendvc/extend-vc.php:426
+msgid "Row Type"
+msgstr ""
+
+#: extendvc/extend-vc.php:218
+#: extendvc/extend-vc.php:429
+msgid "Row"
+msgstr ""
+
+#: extendvc/extend-vc.php:219
+#: extendvc/extend-vc.php:430
+#: vc_templates/vc_accordion_tab.php:5
+#: vc_templates/vc_parallax_section.php:5
+msgid "Section"
+msgstr ""
+
+#: extendvc/extend-vc.php:220
+#: extendvc/extend-vc.php:431
+msgid "Box"
+msgstr ""
+
+#: extendvc/extend-vc.php:221
+#: extendvc/extend-vc.php:432
+msgid "Expandable"
+msgstr ""
+
+#: extendvc/extend-vc.php:229
+#: extendvc/extend-vc.php:440
+#: extendvc/extend-vc.php:582
+#: extendvc/extend-vc.php:803
+#: extendvc/extend-vc.php:870
+#: extendvc/extend-vc.php:1022
+#: extendvc/extend-vc.php:1144
+#: extendvc/extend-vc.php:1283
+#: extendvc/extend-vc.php:1434
+#: extendvc/extend-vc.php:1891
+#: extendvc/extend-vc.php:2002
+#: extendvc/extend-vc.php:2452
+#: extendvc/extend-vc.php:3352
+#: includes/class-tgm-plugin-activation.php:2634
+#: includes/qode-edit-custom-walker.php:207
+msgid "Type"
+msgstr ""
+
+#: extendvc/extend-vc.php:232
+#: extendvc/extend-vc.php:443
+msgid "In Grid"
+msgstr ""
+
+#. Template Name of the theme
+#: extendvc/extend-vc.php:233
+#: extendvc/extend-vc.php:444
+#: extendvc/extend-vc.php:1275
+msgid "Full Width"
+msgstr ""
+
+#: extendvc/extend-vc.php:241
+#: extendvc/extend-vc.php:452
+msgid "Anchor ID"
+msgstr ""
+
+#: extendvc/extend-vc.php:248
+#: extendvc/extend-vc.php:459
+#: extendvc/extend-vc.php:2230
+msgid "Text Align"
+msgstr ""
+
+#: extendvc/extend-vc.php:251
+#: extendvc/extend-vc.php:384
+#: extendvc/extend-vc.php:462
+#: extendvc/extend-vc.php:541
+#: extendvc/extend-vc.php:601
+#: extendvc/extend-vc.php:1038
+#: extendvc/extend-vc.php:2233
+#: extendvc/extend-vc.php:2470
+#: extendvc/extend-vc.php:2778
+#: extendvc/extend-vc.php:3357
+#: includes/widgets/qode-call-to-action-widget.php:178
+msgid "Left"
+msgstr ""
+
+#: extendvc/extend-vc.php:252
+#: extendvc/extend-vc.php:386
+#: extendvc/extend-vc.php:463
+#: extendvc/extend-vc.php:543
+#: extendvc/extend-vc.php:600
+#: extendvc/extend-vc.php:1040
+#: extendvc/extend-vc.php:2234
+msgid "Center"
+msgstr ""
+
+#: extendvc/extend-vc.php:253
+#: extendvc/extend-vc.php:385
+#: extendvc/extend-vc.php:464
+#: extendvc/extend-vc.php:542
+#: extendvc/extend-vc.php:602
+#: extendvc/extend-vc.php:1039
+#: extendvc/extend-vc.php:2235
+#: extendvc/extend-vc.php:2471
+#: includes/widgets/qode-call-to-action-widget.php:177
+msgid "Right"
+msgstr ""
+
+#: extendvc/extend-vc.php:260
+msgid "Video background"
+msgstr ""
+
+#: extendvc/extend-vc.php:263
+#: extendvc/extend-vc.php:275
+#: extendvc/extend-vc.php:651
+#: extendvc/extend-vc.php:934
+#: extendvc/extend-vc.php:947
+#: extendvc/extend-vc.php:960
+#: extendvc/extend-vc.php:2149
+#: extendvc/extend-vc.php:2375
+#: extendvc/extend-vc.php:2484
+#: extendvc/extend-vc.php:2674
+#: extendvc/extend-vc.php:2749
+#: extendvc/extend-vc.php:3408
+#: extendvc/extend-vc.php:3464
+#: includes/modules/toolbar.php:14
+#: includes/modules/toolbar.php:21
+#: includes/modules/toolbar.php:28
+#: includes/widgets/qode-call-to-action-widget.php:127
+msgid "No"
+msgstr ""
+
+#: extendvc/extend-vc.php:264
+#: extendvc/extend-vc.php:276
+#: extendvc/extend-vc.php:652
+#: extendvc/extend-vc.php:933
+#: extendvc/extend-vc.php:946
+#: extendvc/extend-vc.php:959
+#: extendvc/extend-vc.php:2150
+#: extendvc/extend-vc.php:2376
+#: extendvc/extend-vc.php:2483
+#: extendvc/extend-vc.php:2673
+#: extendvc/extend-vc.php:2750
+#: extendvc/extend-vc.php:3407
+#: extendvc/extend-vc.php:3463
+#: includes/modules/toolbar.php:13
+#: includes/modules/toolbar.php:20
+#: includes/modules/toolbar.php:27
+#: includes/widgets/qode-call-to-action-widget.php:126
+msgid "Yes"
+msgstr ""
+
+#: extendvc/extend-vc.php:272
+msgid "Video overlay"
+msgstr ""
+
+#: extendvc/extend-vc.php:284
+msgid "Video background (webm) file url"
+msgstr ""
+
+#: extendvc/extend-vc.php:292
+msgid "Video background (mp4) file url"
+msgstr ""
+
+#: extendvc/extend-vc.php:301
+msgid "Video background (ogv) file url"
+msgstr ""
+
+#: extendvc/extend-vc.php:310
+msgid "Video preview image"
+msgstr ""
+
+#: extendvc/extend-vc.php:319
+#: extendvc/extend-vc.php:472
+msgid "Background color"
+msgstr ""
+
+#: extendvc/extend-vc.php:328
+#: extendvc/extend-vc.php:481
+msgid "Border color"
+msgstr ""
+
+#: extendvc/extend-vc.php:338
+#: extendvc/extend-vc.php:491
+msgid "Padding"
+msgstr ""
+
+#: extendvc/extend-vc.php:341
+#: extendvc/extend-vc.php:494
+msgid "Padding (left/right in % - full width only)"
+msgstr ""
+
+#: extendvc/extend-vc.php:347
+#: extendvc/extend-vc.php:501
+msgid "Padding Top"
+msgstr ""
+
+#: extendvc/extend-vc.php:356
+#: extendvc/extend-vc.php:510
+msgid "Padding Bottom"
+msgstr ""
+
+#: extendvc/extend-vc.php:364
+#: extendvc/extend-vc.php:519
+msgid "More Button Label"
+msgstr ""
+
+#: extendvc/extend-vc.php:372
+#: extendvc/extend-vc.php:528
+msgid "Less Button Label"
+msgstr ""
+
+#: extendvc/extend-vc.php:380
+#: extendvc/extend-vc.php:537
+msgid "Button Position"
+msgstr ""
+
+#: extendvc/extend-vc.php:394
+#: extendvc/extend-vc.php:551
+#: extendvc/extend-vc.php:612
+#: extendvc/extend-vc.php:1335
+#: extendvc/extend-vc.php:2253
+msgid "Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:402
+#: extendvc/extend-vc.php:559
+msgid "CSS Animation"
+msgstr ""
+
+#: extendvc/extend-vc.php:413
+#: extendvc/extend-vc.php:570
+#: extendvc/extend-vc.php:3471
+msgid "Transition delay"
+msgstr ""
+
+#: extendvc/extend-vc.php:585
+#: extendvc/extend-vc.php:806
+#: extendvc/extend-vc.php:1286
+#: extendvc/extend-vc.php:1355
+#: extendvc/extend-vc.php:1437
+#: extendvc/extend-vc.php:1894
+#: extendvc/extend-vc.php:2220
+#: extendvc/extend-vc.php:2390
+#: extendvc/extend-vc.php:2455
+#: extendvc/extend-vc.php:2469
+#: extendvc/extend-vc.php:2597
+#: extendvc/extend-vc.php:2660
+#: extendvc/extend-vc.php:2712
+#: includes/widgets/qode-call-to-action-widget.php:134
+msgid "Normal"
+msgstr ""
+
+#: extendvc/extend-vc.php:586
+#: extendvc/extend-vc.php:807
+#: extendvc/extend-vc.php:1287
+#: extendvc/extend-vc.php:2362
+#: includes/modules/toolbar.php:44
+#: includes/widgets/qode-call-to-action-widget.php:135
+msgid "Transparent"
+msgstr ""
+
+#: extendvc/extend-vc.php:587
+msgid "Full width"
+msgstr ""
+
+#: extendvc/extend-vc.php:588
+#: extendvc/extend-vc.php:1272
+#: extendvc/extend-vc.php:1918
+#: extendvc/extend-vc.php:2424
+#: extendvc/extend-vc.php:2596
+#: extendvc/extend-vc.php:2727
+msgid "Small"
+msgstr ""
+
+#: extendvc/extend-vc.php:597
+#: extendvc/extend-vc.php:1035
+#: extendvc/extend-vc.php:2466
+msgid "Position"
+msgstr ""
+
+#: extendvc/extend-vc.php:621
+msgid "Thickness"
+msgstr ""
+
+#: extendvc/extend-vc.php:629
+msgid "Top Margin"
+msgstr ""
+
+#: extendvc/extend-vc.php:637
+msgid "Bottom Margin"
+msgstr ""
+
+#: extendvc/extend-vc.php:648
+#: extendvc/extend-vc.php:2480
+msgid "Border"
+msgstr ""
+
+#: extendvc/extend-vc.php:659
+#: extendvc/extend-vc.php:851
+#: extendvc/extend-vc.php:1165
+#: extendvc/extend-vc.php:1248
+#: extendvc/extend-vc.php:1327
+#: extendvc/extend-vc.php:1481
+#: extendvc/extend-vc.php:1970
+#: extendvc/extend-vc.php:2493
+msgid "Border Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:674
+#: extendvc/extend-vc.php:834
+#: extendvc/extend-vc.php:1224
+#: extendvc/extend-vc.php:2862
+msgid "Text Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:681
+#: extendvc/extend-vc.php:1093
+#: extendvc/extend-vc.php:1456
+#: extendvc/extend-vc.php:1937
+#: extendvc/extend-vc.php:2502
+#: extendvc/extend-vc.php:2629
+#: extendvc/extend-vc.php:2806
+msgid "Icon Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:697
+#: extendvc/extend-vc.php:1375
+#: extendvc/extend-vc.php:2767
+#: extendvc/extend-vc.php:3260
+#: extendvc/extend-vc.php:3436
+msgid "Image"
+msgstr ""
+
+#: extendvc/extend-vc.php:705
+msgid "Parallax"
+msgstr ""
+
+#: extendvc/extend-vc.php:709
+#: extendvc/extend-vc.php:795
+#: extendvc/extend-vc.php:862
+#: extendvc/extend-vc.php:1013
+#: extendvc/extend-vc.php:1078
+#: extendvc/extend-vc.php:1135
+#: extendvc/extend-vc.php:1206
+#: extendvc/extend-vc.php:1258
+#: extendvc/extend-vc.php:1366
+#: extendvc/extend-vc.php:1425
+#: extendvc/extend-vc.php:1514
+#: extendvc/extend-vc.php:1604
+#: extendvc/extend-vc.php:1647
+#: extendvc/extend-vc.php:1694
+#: extendvc/extend-vc.php:1777
+#: extendvc/extend-vc.php:1868
+#: extendvc/extend-vc.php:1995
+#: extendvc/extend-vc.php:2077
+#: extendvc/extend-vc.php:2173
+#: extendvc/extend-vc.php:2184
+#: extendvc/extend-vc.php:2315
+#: extendvc/extend-vc.php:2338
+#: extendvc/extend-vc.php:2411
+#: extendvc/extend-vc.php:2532
+#: extendvc/extend-vc.php:2650
+#: extendvc/extend-vc.php:2875
+#: extendvc/extend-vc.php:2985
+#: extendvc/extend-vc.php:3251
+#: extendvc/extend-vc.php:3344
+#: extendvc/extend-vc.php:3428
+msgid "by QODE"
+msgstr ""
+
+#: extendvc/extend-vc.php:718
+#: extendvc/extend-vc.php:741
+#: extendvc/extend-vc.php:907
+#: extendvc/extend-vc.php:1117
+#: extendvc/extend-vc.php:1382
+#: extendvc/extend-vc.php:1561
+#: extendvc/extend-vc.php:1701
+#: extendvc/extend-vc.php:1784
+#: extendvc/extend-vc.php:2084
+#: extendvc/extend-vc.php:2823
+#: extendvc/extend-vc.php:2928
+#: extendvc/extend-vc.php:3267
+#: extendvc/extend-vc.php:3364
+#: vc_templates/vc_text_separator.php:4
+msgid "Title"
+msgstr ""
+
+#: extendvc/extend-vc.php:721
+msgid "What text use as a title. Leave blank if no title is needed."
+msgstr ""
+
+#: extendvc/extend-vc.php:729
+msgid "Parallax Section"
+msgstr ""
+
+#: extendvc/extend-vc.php:744
+msgid "Parallax section title."
+msgstr ""
+
+#: extendvc/extend-vc.php:750
+msgid "Background Image"
+msgstr ""
+
+#: extendvc/extend-vc.php:753
+msgid "Parallax section background image."
+msgstr ""
+
+#: extendvc/extend-vc.php:759
+msgid "Section Height"
+msgstr ""
+
+#: extendvc/extend-vc.php:762
+msgid "Section height."
+msgstr ""
+
+#: extendvc/extend-vc.php:768
+msgid "Content position"
+msgstr ""
+
+#: extendvc/extend-vc.php:771
+msgid "center"
+msgstr ""
+
+#: extendvc/extend-vc.php:772
+msgid "left"
+msgstr ""
+
+#: extendvc/extend-vc.php:773
+msgid "right"
+msgstr ""
+
+#: extendvc/extend-vc.php:782
+#: includes/qode-edit-custom-walker.php:181
+msgid "Anchor"
+msgstr ""
+
+#: extendvc/extend-vc.php:793
+msgid "Testimonials"
+msgstr ""
+
+#: extendvc/extend-vc.php:816
+#: extendvc/extend-vc.php:977
+msgid "Category"
+msgstr ""
+
+#: extendvc/extend-vc.php:819
+#: extendvc/extend-vc.php:980
+msgid "Category Slug (leave empty for all)"
+msgstr ""
+
+#: extendvc/extend-vc.php:825
+#: extendvc/extend-vc.php:968
+#: extendvc/extend-vc.php:2349
+msgid "Number"
+msgstr ""
+
+#: extendvc/extend-vc.php:828
+msgid "Number of Testimonials"
+msgstr ""
+
+#: extendvc/extend-vc.php:844
+#: extendvc/extend-vc.php:853
+msgid "Only for normal type"
+msgstr ""
+
+#: extendvc/extend-vc.php:860
+msgid "Portfolio"
+msgstr ""
+
+#: extendvc/extend-vc.php:873
+msgid "Standard"
+msgstr ""
+
+#: extendvc/extend-vc.php:874
+#: extendvc/extend-vc.php:1895
+#: extendvc/extend-vc.php:2348
+#: extendvc/extend-vc.php:2361
+#: extendvc/extend-vc.php:2456
+#: extendvc/extend-vc.php:2713
+msgid "Circle"
+msgstr ""
+
+#: extendvc/extend-vc.php:875
+msgid "Hover Text"
+msgstr ""
+
+#: extendvc/extend-vc.php:884
+msgid "Columns"
+msgstr ""
+
+#: extendvc/extend-vc.php:902
+#: extendvc/extend-vc.php:2924
+msgid "Order By"
+msgstr ""
+
+#: extendvc/extend-vc.php:906
+#: extendvc/extend-vc.php:2927
+msgid "Menu Order"
+msgstr ""
+
+#: extendvc/extend-vc.php:908
+#: extendvc/extend-vc.php:2929
+#: single-portfolio_page.php:83
+#: single-portfolio_page.php:165
+#: single-portfolio_page.php:256
+#: single-portfolio_page.php:370
+#: single-portfolio_page.php:450
+msgid "Date"
+msgstr ""
+
+#: extendvc/extend-vc.php:916
+#: extendvc/extend-vc.php:2937
+msgid "Order"
+msgstr ""
+
+#: extendvc/extend-vc.php:920
+#: extendvc/extend-vc.php:2940
+msgid "ASC"
+msgstr ""
+
+#: extendvc/extend-vc.php:921
+#: extendvc/extend-vc.php:2941
+msgid "DESC"
+msgstr ""
+
+#: extendvc/extend-vc.php:929
+msgid "Filter"
+msgstr ""
+
+#: extendvc/extend-vc.php:942
+msgid "Lightbox"
+msgstr ""
+
+#: extendvc/extend-vc.php:955
+msgid "Show Load More"
+msgstr ""
+
+#: extendvc/extend-vc.php:971
+msgid "Number of portolios on page (-1 is all)"
+msgstr ""
+
+#: extendvc/extend-vc.php:986
+msgid "Selected Projects"
+msgstr ""
+
+#: extendvc/extend-vc.php:989
+msgid "Selected Projects (leave empty for all, delimit by comma)"
+msgstr ""
+
+#: extendvc/extend-vc.php:1011
+msgid "Counter"
+msgstr ""
+
+#: extendvc/extend-vc.php:1025
+msgid "Zero Counter"
+msgstr ""
+
+#: extendvc/extend-vc.php:1026
+msgid "Random Counter"
+msgstr ""
+
+#: extendvc/extend-vc.php:1049
+msgid "Digit"
+msgstr ""
+
+#: extendvc/extend-vc.php:1057
+msgid "Font size (px)"
+msgstr ""
+
+#: extendvc/extend-vc.php:1065
+msgid "Font Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1074
+msgid "Icon List Item"
+msgstr ""
+
+#: extendvc/extend-vc.php:1101
+#: extendvc/extend-vc.php:2814
+msgid "Icon Background Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1109
+#: extendvc/extend-vc.php:2797
+msgid "Icon Border Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1125
+#: extendvc/extend-vc.php:1390
+#: extendvc/extend-vc.php:1569
+#: extendvc/extend-vc.php:1709
+#: extendvc/extend-vc.php:1792
+#: extendvc/extend-vc.php:2854
+#: extendvc/extend-vc.php:3023
+#: extendvc/extend-vc.php:3275
+#: extendvc/extend-vc.php:3372
+msgid "Title Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1133
+msgid "Qode call to action"
+msgstr ""
+
+#: extendvc/extend-vc.php:1147
+msgid "With border"
+msgstr ""
+
+#: extendvc/extend-vc.php:1148
+msgid "Without border"
+msgstr ""
+
+#: extendvc/extend-vc.php:1173
+#: extendvc/extend-vc.php:1304
+#: extendvc/extend-vc.php:2116
+#: extendvc/extend-vc.php:2607
+#: extendvc/extend-vc.php:3380
+#: extendvc/extend-vc.php:3450
+msgid "Link"
+msgstr ""
+
+#: extendvc/extend-vc.php:1175
+msgid "Link (only with elegant type)"
+msgstr ""
+
+#: extendvc/extend-vc.php:1181
+#: extendvc/extend-vc.php:1312
+msgid "Link Target"
+msgstr ""
+
+#: extendvc/extend-vc.php:1185
+#: extendvc/extend-vc.php:1315
+#: extendvc/extend-vc.php:2128
+#: extendvc/extend-vc.php:2618
+#: extendvc/extend-vc.php:3084
+#: extendvc/extend-vc.php:3132
+#: extendvc/extend-vc.php:3185
+#: extendvc/extend-vc.php:3237
+#: extendvc/extend-vc.php:3393
+#: includes/widgets/qode-call-to-action-widget.php:168
+msgid "Self"
+msgstr ""
+
+#: extendvc/extend-vc.php:1186
+#: extendvc/extend-vc.php:1316
+#: extendvc/extend-vc.php:2129
+#: extendvc/extend-vc.php:2619
+#: extendvc/extend-vc.php:3083
+#: extendvc/extend-vc.php:3131
+#: extendvc/extend-vc.php:3184
+#: extendvc/extend-vc.php:3236
+#: extendvc/extend-vc.php:3394
+#: includes/widgets/qode-call-to-action-widget.php:167
+msgid "Blank"
+msgstr ""
+
+#: extendvc/extend-vc.php:1187
+#: extendvc/extend-vc.php:1317
+#: extendvc/extend-vc.php:2130
+#: extendvc/extend-vc.php:2620
+#: extendvc/extend-vc.php:3085
+#: extendvc/extend-vc.php:3133
+#: extendvc/extend-vc.php:3186
+#: extendvc/extend-vc.php:3238
+#: includes/widgets/qode-call-to-action-widget.php:170
+msgid "Parent"
+msgstr ""
+
+#: extendvc/extend-vc.php:1197
+msgid "I am test text for Call to action."
+msgstr ""
+
+#: extendvc/extend-vc.php:1204
+msgid "Blockquote"
+msgstr ""
+
+#: extendvc/extend-vc.php:1215
+#: extendvc/extend-vc.php:1296
+#: extendvc/extend-vc.php:1592
+#: extendvc/extend-vc.php:1855
+#: extendvc/extend-vc.php:2846
+msgid "Text"
+msgstr ""
+
+#: extendvc/extend-vc.php:1217
+msgid "Blockquote text"
+msgstr ""
+
+#: extendvc/extend-vc.php:1232
+#: extendvc/extend-vc.php:1611
+#: extendvc/extend-vc.php:1656
+#: extendvc/extend-vc.php:2015
+msgid "Width"
+msgstr ""
+
+#: extendvc/extend-vc.php:1234
+msgid "Width (%)"
+msgstr ""
+
+#: extendvc/extend-vc.php:1256
+msgid "Button"
+msgstr ""
+
+#: extendvc/extend-vc.php:1267
+#: extendvc/extend-vc.php:1914
+#: extendvc/extend-vc.php:2420
+#: extendvc/extend-vc.php:2593
+msgid "Size"
+msgstr ""
+
+#: extendvc/extend-vc.php:1270
+#: extendvc/extend-vc.php:2388
+msgid "Default"
+msgstr ""
+
+#: extendvc/extend-vc.php:1271
+#: extendvc/extend-vc.php:1917
+#: extendvc/extend-vc.php:2423
+#: extendvc/extend-vc.php:2726
+msgid "Tiny"
+msgstr ""
+
+#: extendvc/extend-vc.php:1273
+#: extendvc/extend-vc.php:1919
+#: extendvc/extend-vc.php:2425
+#: extendvc/extend-vc.php:2728
+msgid "Medium"
+msgstr ""
+
+#: extendvc/extend-vc.php:1274
+#: extendvc/extend-vc.php:1920
+#: extendvc/extend-vc.php:2426
+#: extendvc/extend-vc.php:2598
+#: extendvc/extend-vc.php:2729
+msgid "Large"
+msgstr ""
+
+#: extendvc/extend-vc.php:1318
+#: extendvc/extend-vc.php:2777
+#: extendvc/extend-vc.php:3086
+#: extendvc/extend-vc.php:3134
+#: extendvc/extend-vc.php:3187
+#: extendvc/extend-vc.php:3239
+#: extendvc/extend-vc.php:3356
+#: includes/widgets/qode-call-to-action-widget.php:169
+msgid "Top"
+msgstr ""
+
+#: extendvc/extend-vc.php:1351
+#: extendvc/extend-vc.php:2217
+msgid "Font Style"
+msgstr ""
+
+#: extendvc/extend-vc.php:1356
+#: extendvc/extend-vc.php:2221
+msgid "Italic"
+msgstr ""
+
+#: extendvc/extend-vc.php:1364
+msgid "Image with text"
+msgstr ""
+
+#: extendvc/extend-vc.php:1415
+msgid "I am test text for Image with text shortcode."
+msgstr ""
+
+#: extendvc/extend-vc.php:1423
+msgid "Qode Message"
+msgstr ""
+
+#: extendvc/extend-vc.php:1438
+msgid "With Icon"
+msgstr ""
+
+#: extendvc/extend-vc.php:1465
+msgid "Custom Icon"
+msgstr ""
+
+#: extendvc/extend-vc.php:1488
+msgid "Close Button Style"
+msgstr ""
+
+#: extendvc/extend-vc.php:1491
+msgid "Dark"
+msgstr ""
+
+#: extendvc/extend-vc.php:1492
+#: extendvc/extend-vc.php:2389
+msgid "Light"
+msgstr ""
+
+#: extendvc/extend-vc.php:1503
+msgid "I am test text for Message shortcode"
+msgstr ""
+
+#: extendvc/extend-vc.php:1510
+msgid "Qode Pie Chart"
+msgstr ""
+
+#: extendvc/extend-vc.php:1521
+#: extendvc/extend-vc.php:1732
+msgid "Percentage"
+msgstr ""
+
+#: extendvc/extend-vc.php:1529
+#: extendvc/extend-vc.php:1740
+#: extendvc/extend-vc.php:1847
+msgid "Percentage Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1537
+msgid "Bar Active Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1545
+msgid "Bar Noactive Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1553
+msgid "Pie Chart Line Width (px)"
+msgstr ""
+
+#: extendvc/extend-vc.php:1600
+msgid "Qode Pie Chart 2"
+msgstr ""
+
+#: extendvc/extend-vc.php:1619
+#: extendvc/extend-vc.php:1664
+#: extendvc/extend-vc.php:2023
+msgid "Height"
+msgstr ""
+
+#: extendvc/extend-vc.php:1627
+#: extendvc/extend-vc.php:1672
+msgid "Legend Text Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1645
+msgid "Qode Pie Chart 3"
+msgstr ""
+
+#: extendvc/extend-vc.php:1690
+msgid "Qode Horizontal progress bar shortcode"
+msgstr ""
+
+#: extendvc/extend-vc.php:1748
+msgid "Active Background Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1756
+msgid "No active Background Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1764
+msgid "Progress Bar Height (px)"
+msgstr ""
+
+#: extendvc/extend-vc.php:1774
+msgid "Qode Vertical progress bar shortcode"
+msgstr ""
+
+#: extendvc/extend-vc.php:1815
+#: extendvc/extend-vc.php:3283
+msgid "Title Size"
+msgstr ""
+
+#: extendvc/extend-vc.php:1831
+msgid "Percent"
+msgstr ""
+
+#: extendvc/extend-vc.php:1839
+msgid "Percentage Text Size"
+msgstr ""
+
+#: extendvc/extend-vc.php:1857
+#: extendvc/extend-vc.php:2302
+msgid "Put some content here"
+msgstr ""
+
+#: extendvc/extend-vc.php:1864
+msgid "Icon Progress Bar"
+msgstr ""
+
+#: extendvc/extend-vc.php:1875
+msgid "Number of Icons"
+msgstr ""
+
+#: extendvc/extend-vc.php:1883
+msgid "Number of Active Icons"
+msgstr ""
+
+#: extendvc/extend-vc.php:1896
+#: extendvc/extend-vc.php:2457
+#: extendvc/extend-vc.php:2714
+msgid "Square"
+msgstr ""
+
+#: extendvc/extend-vc.php:1929
+#: extendvc/extend-vc.php:2435
+msgid "Custom Size (px)"
+msgstr ""
+
+#: extendvc/extend-vc.php:1946
+msgid "Icon Active Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1962
+msgid "Background Active Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1972
+#: extendvc/extend-vc.php:1981
+#: extendvc/extend-vc.php:2495
+#: extendvc/extend-vc.php:2799
+msgid "Only for Square type"
+msgstr ""
+
+#: extendvc/extend-vc.php:1979
+msgid "Border Active Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1991
+msgid "Line Graph"
+msgstr ""
+
+#: extendvc/extend-vc.php:2006
+msgid "Rounded edges"
+msgstr ""
+
+#: extendvc/extend-vc.php:2007
+msgid "Sharp edges"
+msgstr ""
+
+#: extendvc/extend-vc.php:2031
+msgid "Custom Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:2039
+msgid "Scale steps"
+msgstr ""
+
+#: extendvc/extend-vc.php:2047
+msgid "Scale step width"
+msgstr ""
+
+#: extendvc/extend-vc.php:2055
+msgid "Labels"
+msgstr ""
+
+#: extendvc/extend-vc.php:2057
+msgid "Label 1, Label 2, Label 3"
+msgstr ""
+
+#: extendvc/extend-vc.php:2073
+msgid "Pricing table shortcode"
+msgstr ""
+
+#: extendvc/extend-vc.php:2086
+msgid "Basic plan"
+msgstr ""
+
+#: extendvc/extend-vc.php:2092
+msgid "Price"
+msgstr ""
+
+#: extendvc/extend-vc.php:2100
+msgid "Currency"
+msgstr ""
+
+#: extendvc/extend-vc.php:2108
+msgid "Price Period"
+msgstr ""
+
+#: extendvc/extend-vc.php:2124
+#: extendvc/extend-vc.php:2615
+#: extendvc/extend-vc.php:3388
+msgid "Target"
+msgstr ""
+
+#: extendvc/extend-vc.php:2138
+msgid "Button Text"
+msgstr ""
+
+#: extendvc/extend-vc.php:2146
+#: includes/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: extendvc/extend-vc.php:2169
+msgid "Social share"
+msgstr ""
+
+#: extendvc/extend-vc.php:2180
+msgid "Custom Font"
+msgstr ""
+
+#: extendvc/extend-vc.php:2191
+msgid "Font family"
+msgstr ""
+
+#: extendvc/extend-vc.php:2199
+msgid "Font size"
+msgstr ""
+
+#: extendvc/extend-vc.php:2208
+msgid "Line height"
+msgstr ""
+
+#: extendvc/extend-vc.php:2244
+msgid "Font weight"
+msgstr ""
+
+#: extendvc/extend-vc.php:2261
+msgid "Text decoration"
+msgstr ""
+
+#: extendvc/extend-vc.php:2264
+msgid "None"
+msgstr ""
+
+#: extendvc/extend-vc.php:2265
+msgid "Underline"
+msgstr ""
+
+#: extendvc/extend-vc.php:2266
+msgid "Overline"
+msgstr ""
+
+#: extendvc/extend-vc.php:2267
+msgid "Line Through"
+msgstr ""
+
+#: extendvc/extend-vc.php:2284
+msgid "Padding (px)"
+msgstr ""
+
+#: extendvc/extend-vc.php:2292
+msgid "Margin (px)"
+msgstr ""
+
+#: extendvc/extend-vc.php:2311
+msgid "Ordered List"
+msgstr ""
+
+#: extendvc/extend-vc.php:2334
+msgid "Unordered List"
+msgstr ""
+
+#: extendvc/extend-vc.php:2358
+msgid "Number Type"
+msgstr ""
+
+#: extendvc/extend-vc.php:2372
+msgid "Animate List"
+msgstr ""
+
+#: extendvc/extend-vc.php:2385
+msgid "Font Weight"
+msgstr ""
+
+#: extendvc/extend-vc.php:2391
+msgid "Bold"
+msgstr ""
+
+#: extendvc/extend-vc.php:2518
+msgid "Margin"
+msgstr ""
+
+#: extendvc/extend-vc.php:2520
+msgid "Margin (top right bottom left)"
+msgstr ""
+
+#: extendvc/extend-vc.php:2528
+msgid "Social Icon"
+msgstr ""
+
+#: extendvc/extend-vc.php:2541
+msgid "ADN"
+msgstr ""
+
+#: extendvc/extend-vc.php:2542
+msgid "Android"
+msgstr ""
+
+#: extendvc/extend-vc.php:2543
+msgid "Apple"
+msgstr ""
+
+#: extendvc/extend-vc.php:2544
+msgid "Bitbucket"
+msgstr ""
+
+#: extendvc/extend-vc.php:2545
+msgid "Bitbucket-Sign"
+msgstr ""
+
+#: extendvc/extend-vc.php:2546
+msgid "Bitcoin"
+msgstr ""
+
+#: extendvc/extend-vc.php:2547
+msgid "BTC"
+msgstr ""
+
+#: extendvc/extend-vc.php:2548
+msgid "CSS3"
+msgstr ""
+
+#: extendvc/extend-vc.php:2549
+msgid "Dribbble"
+msgstr ""
+
+#: extendvc/extend-vc.php:2550
+msgid "Dropbox"
+msgstr ""
+
+#: extendvc/extend-vc.php:2551
+msgid "Facebook"
+msgstr ""
+
+#: extendvc/extend-vc.php:2552
+msgid "Facebook-Sign"
+msgstr ""
+
+#: extendvc/extend-vc.php:2553
+msgid "Flickr"
+msgstr ""
+
+#: extendvc/extend-vc.php:2554
+msgid "Foursquare"
+msgstr ""
+
+#: extendvc/extend-vc.php:2555
+msgid "GitHub"
+msgstr ""
+
+#: extendvc/extend-vc.php:2556
+msgid "GitHub-Alt"
+msgstr ""
+
+#: extendvc/extend-vc.php:2557
+msgid "GitHub-Sign"
+msgstr ""
+
+#: extendvc/extend-vc.php:2558
+msgid "Gittip"
+msgstr ""
+
+#: extendvc/extend-vc.php:2559
+msgid "Google Plus"
+msgstr ""
+
+#: extendvc/extend-vc.php:2560
+msgid "Google Plus-Sign"
+msgstr ""
+
+#: extendvc/extend-vc.php:2561
+msgid "HTML5"
+msgstr ""
+
+#: extendvc/extend-vc.php:2562
+msgid "Instagram"
+msgstr ""
+
+#: extendvc/extend-vc.php:2563
+msgid "LinkedIn"
+msgstr ""
+
+#: extendvc/extend-vc.php:2564
+msgid "LinkedIn-Sign"
+msgstr ""
+
+#: extendvc/extend-vc.php:2565
+msgid "Linux"
+msgstr ""
+
+#: extendvc/extend-vc.php:2566
+msgid "MaxCDN"
+msgstr ""
+
+#: extendvc/extend-vc.php:2567
+msgid "Pinterest"
+msgstr ""
+
+#: extendvc/extend-vc.php:2568
+msgid "Pinterest-Sign"
+msgstr ""
+
+#: extendvc/extend-vc.php:2569
+msgid "Renren"
+msgstr ""
+
+#: extendvc/extend-vc.php:2570
+msgid "Skype"
+msgstr ""
+
+#: extendvc/extend-vc.php:2571
+msgid "StackExchange"
+msgstr ""
+
+#: extendvc/extend-vc.php:2572
+msgid "Trello"
+msgstr ""
+
+#: extendvc/extend-vc.php:2573
+msgid "Tumblr"
+msgstr ""
+
+#: extendvc/extend-vc.php:2574
+msgid "Tumblr-Sign"
+msgstr ""
+
+#: extendvc/extend-vc.php:2575
+msgid "Twitter"
+msgstr ""
+
+#: extendvc/extend-vc.php:2576
+msgid "Twitter-Sign"
+msgstr ""
+
+#: extendvc/extend-vc.php:2577
+msgid "VK"
+msgstr ""
+
+#: extendvc/extend-vc.php:2578
+msgid "Weibo"
+msgstr ""
+
+#: extendvc/extend-vc.php:2579
+msgid "Windows"
+msgstr ""
+
+#: extendvc/extend-vc.php:2580
+msgid "Xing"
+msgstr ""
+
+#: extendvc/extend-vc.php:2581
+msgid "Xing-Sign"
+msgstr ""
+
+#: extendvc/extend-vc.php:2582
+msgid "YouTube"
+msgstr ""
+
+#: extendvc/extend-vc.php:2583
+msgid "YouTube Play"
+msgstr ""
+
+#: extendvc/extend-vc.php:2584
+msgid "YouTube-Sign"
+msgstr ""
+
+#: extendvc/extend-vc.php:2646
+msgid "Icon With Text"
+msgstr ""
+
+#: extendvc/extend-vc.php:2657
+msgid "Box type"
+msgstr ""
+
+#: extendvc/extend-vc.php:2661
+msgid "Icon in a box"
+msgstr ""
+
+#: extendvc/extend-vc.php:2670
+msgid "Box Border"
+msgstr ""
+
+#: extendvc/extend-vc.php:2683
+msgid "Box Border Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:2691
+msgid "Box Background Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:2709
+msgid "Icon Type"
+msgstr ""
+
+#: extendvc/extend-vc.php:2723
+msgid "Icon Size"
+msgstr ""
+
+#: extendvc/extend-vc.php:2738
+msgid "Custom Icon Size (px)"
+msgstr ""
+
+#: extendvc/extend-vc.php:2746
+msgid "Icon Animation"
+msgstr ""
+
+#: extendvc/extend-vc.php:2758
+msgid "Icon Animation Delay (ms)"
+msgstr ""
+
+#: extendvc/extend-vc.php:2774
+msgid "Icon Position"
+msgstr ""
+
+#: extendvc/extend-vc.php:2781
+msgid "Icon Position (only for normal box type)"
+msgstr ""
+
+#: extendvc/extend-vc.php:2788
+msgid "Icon Margin"
+msgstr ""
+
+#: extendvc/extend-vc.php:2791
+msgid "Margin should be set in a top right bottom left format"
+msgstr ""
+
+#: extendvc/extend-vc.php:2816
+msgid "Icon Background Color (only for square and circle icon type)"
+msgstr ""
+
+#: extendvc/extend-vc.php:2871
+msgid "Latest Posts"
+msgstr ""
+
+#: extendvc/extend-vc.php:2882
+msgid "Number of Posts per Row"
+msgstr ""
+
+#: extendvc/extend-vc.php:2896
+#: extendvc/extend-vc.php:2910
+msgid "Number of Rows"
+msgstr ""
+
+#: extendvc/extend-vc.php:2950
+msgid "Category Slug"
+msgstr ""
+
+#: extendvc/extend-vc.php:2952
+msgid "Leave empty for all or use comma for list"
+msgstr ""
+
+#: extendvc/extend-vc.php:2958
+msgid "Text length"
+msgstr ""
+
+#: extendvc/extend-vc.php:2960
+msgid "Number of caracters"
+msgstr ""
+
+#: extendvc/extend-vc.php:2983
+msgid "Steps"
+msgstr ""
+
+#: extendvc/extend-vc.php:2993
+msgid "Number Of Steps"
+msgstr ""
+
+#: extendvc/extend-vc.php:2996
+msgid "Deafult"
+msgstr ""
+
+#: extendvc/extend-vc.php:3001
+msgid "Number of steps in the process"
+msgstr ""
+
+#: extendvc/extend-vc.php:3009
+msgid "Background color of the step holder"
+msgstr ""
+
+#: extendvc/extend-vc.php:3015
+msgid "Number Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:3049
+msgid "Title 1"
+msgstr ""
+
+#: extendvc/extend-vc.php:3057
+msgid "Step Number 1"
+msgstr ""
+
+#: extendvc/extend-vc.php:3065
+msgid "Step Description 1"
+msgstr ""
+
+#: extendvc/extend-vc.php:3073
+msgid "Step Link 1"
+msgstr ""
+
+#: extendvc/extend-vc.php:3080
+msgid "Step Link Target 1"
+msgstr ""
+
+#: extendvc/extend-vc.php:3097
+msgid "Title 2"
+msgstr ""
+
+#: extendvc/extend-vc.php:3105
+msgid "Step Number 2"
+msgstr ""
+
+#: extendvc/extend-vc.php:3113
+msgid "Step Description 2"
+msgstr ""
+
+#: extendvc/extend-vc.php:3121
+msgid "Step Link 2"
+msgstr ""
+
+#: extendvc/extend-vc.php:3128
+msgid "Step Link Target 2"
+msgstr ""
+
+#: extendvc/extend-vc.php:3146
+msgid "Title 3"
+msgstr ""
+
+#: extendvc/extend-vc.php:3155
+msgid "Step Number 3"
+msgstr ""
+
+#: extendvc/extend-vc.php:3164
+msgid "Step Description 3"
+msgstr ""
+
+#: extendvc/extend-vc.php:3173
+msgid "Step Link 3"
+msgstr ""
+
+#: extendvc/extend-vc.php:3181
+msgid "Step Link Target 3"
+msgstr ""
+
+#: extendvc/extend-vc.php:3198
+msgid "Title 4"
+msgstr ""
+
+#: extendvc/extend-vc.php:3207
+msgid "Step Number 4"
+msgstr ""
+
+#: extendvc/extend-vc.php:3216
+msgid "Step Description 4"
+msgstr ""
+
+#: extendvc/extend-vc.php:3225
+msgid "Step Link 4"
+msgstr ""
+
+#: extendvc/extend-vc.php:3233
+msgid "Step Link Target 4"
+msgstr ""
+
+#: extendvc/extend-vc.php:3249
+msgid "Image with text over"
+msgstr ""
+
+#: extendvc/extend-vc.php:3306
+msgid "Subtitle"
+msgstr ""
+
+#: extendvc/extend-vc.php:3314
+msgid "Subtitle Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:3322
+msgid "Line Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:3332
+#: extendvc/extend-vc.php:3418
+msgid "I am test text for shortcode"
+msgstr ""
+
+#: extendvc/extend-vc.php:3342
+msgid "Service"
+msgstr ""
+
+#: extendvc/extend-vc.php:3402
+msgid "Animate"
+msgstr ""
+
+#: extendvc/extend-vc.php:3426
+msgid "Image hover"
+msgstr ""
+
+#: extendvc/extend-vc.php:3443
+msgid "Hover Image"
+msgstr ""
+
+#: extendvc/extend-vc.php:3458
+msgid "Animation"
+msgstr ""
+
+#: functions.php:40
+msgid "Top Navigation"
+msgstr ""
+
+#: functions.php:511
+msgid "River Core"
+msgstr ""
+
+#: functions.php:520
+msgid "LayerSlider WP"
+msgstr ""
+
+#: functions.php:529
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: functions.php:539
+msgid "Envato Market"
+msgstr ""
+
+#: functions.php:563
+#: includes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:564
+#: includes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: functions.php:565
+#: includes/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:566
+#: includes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: functions.php:567
+#: includes/class-tgm-plugin-activation.php:341
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: functions.php:568
+#: includes/class-tgm-plugin-activation.php:347
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:569
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: functions.php:570
+#: includes/class-tgm-plugin-activation.php:365
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: functions.php:571
+#: includes/class-tgm-plugin-activation.php:371
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:572
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: functions.php:573
+#: includes/class-tgm-plugin-activation.php:353
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:574
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:575
+#: includes/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:576
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:577
+#: includes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:578
+#: includes/class-tgm-plugin-activation.php:394
+#: includes/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:579
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:1040
+#: includes/qode-plugin-helper-functions.php:363
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:1042
+msgid "Default Sidebar area. In order to display this area you need to enable sidebar layout through global theme options or on page meta box options."
+msgstr ""
+
+#: functions.php:1050
+#: includes/qode-plugin-helper-functions.php:365
+msgid "Sidebar Page"
+msgstr ""
+
+#: functions.php:1052
+msgid "Default Sidebar area for Pages. In order to display this area you need to enable sidebar layout through global theme options or on page meta box options."
+msgstr ""
+
+#: functions.php:1060
+#: includes/qode-plugin-helper-functions.php:367
+msgid "Header Top Left"
+msgstr ""
+
+#: functions.php:1062
+msgid "Widgets added here will appear on the left side in top header area"
+msgstr ""
+
+#: functions.php:1070
+#: includes/qode-plugin-helper-functions.php:369
+msgid "Header Top Right"
+msgstr ""
+
+#: functions.php:1072
+msgid "Widgets added here will appear on the right side in top header area"
+msgstr ""
+
+#: functions.php:1080
+#: includes/qode-plugin-helper-functions.php:371
+msgid "Side Area"
+msgstr ""
+
+#: functions.php:1082
+msgid "Widgets added here will appear inside Side Area"
+msgstr ""
+
+#: functions.php:1090
+#: includes/qode-plugin-helper-functions.php:373
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:1092
+msgid "Widgets added here will appear in the first column of top footer area"
+msgstr ""
+
+#: functions.php:1100
+#: includes/qode-plugin-helper-functions.php:375
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:1102
+msgid "Widgets added here will appear in the second column of top footer area"
+msgstr ""
+
+#: functions.php:1110
+#: includes/qode-plugin-helper-functions.php:377
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions.php:1112
+msgid "Widgets added here will appear in the third column of top footer area"
+msgstr ""
+
+#: functions.php:1120
+#: includes/qode-plugin-helper-functions.php:379
+msgid "Footer Column 4"
+msgstr ""
+
+#: functions.php:1122
+msgid "Widgets added here will appear in the fourth column of top footer area"
+msgstr ""
+
+#: functions.php:1130
+#: includes/qode-plugin-helper-functions.php:381
+msgid "Footer Text"
+msgstr ""
+
+#: functions.php:1132
+msgid "Widgets added here will appear in the footer bottom text area"
+msgstr ""
+
+#: functions.php:1161
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:1172
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. translators: %s: plugin name.
+#: includes/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:359
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:393
+#: includes/class-tgm-plugin-activation.php:912
+#: includes/class-tgm-plugin-activation.php:2618
+#: includes/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:395
+#: includes/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: includes/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1019
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1019
+#: includes/class-tgm-plugin-activation.php:1022
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1022
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1206
+#: includes/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: includes/class-tgm-plugin-activation.php:2067
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: includes/class-tgm-plugin-activation.php:2427
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2473
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2477
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2481
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2485
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/class-tgm-plugin-activation.php:2688
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/class-tgm-plugin-activation.php:2693
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/class-tgm-plugin-activation.php:2699
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/class-tgm-plugin-activation.php:3583
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/class-tgm-plugin-activation.php:3586
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3588
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3592
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3594
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3594
+#: includes/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3594
+#: includes/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/class-tgm-plugin-activation.php:3597
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3600
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3602
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/class-tgm-plugin-activation.php:3605
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/modules/header.php:96
+msgid "Logo"
+msgstr ""
+
+#: includes/modules/preloader.php:19
+msgid "Preloader image"
+msgstr ""
+
+#: includes/modules/toolbar.php:7
+msgid "THEME OPTIONS"
+msgstr ""
+
+#: includes/modules/toolbar.php:10
+msgid "Header Top Menu "
+msgstr ""
+
+#: includes/modules/toolbar.php:17
+msgid "Smooth Scroll "
+msgstr ""
+
+#: includes/modules/toolbar.php:24
+msgid "Boxed Layout "
+msgstr ""
+
+#: includes/modules/toolbar.php:31
+msgid "Choose Background "
+msgstr ""
+
+#: includes/modules/toolbar.php:34
+msgid "Background 1"
+msgstr ""
+
+#: includes/modules/toolbar.php:35
+msgid "Background 2"
+msgstr ""
+
+#: includes/modules/toolbar.php:36
+msgid "Background 3"
+msgstr ""
+
+#: includes/modules/toolbar.php:39
+msgid "Choose Pattern "
+msgstr ""
+
+#: includes/modules/toolbar.php:42
+msgid "Retina Wood"
+msgstr ""
+
+#: includes/modules/toolbar.php:43
+msgid "Retina Wood Grey"
+msgstr ""
+
+#: includes/modules/toolbar.php:45
+msgid "Cubes"
+msgstr ""
+
+#: includes/modules/toolbar.php:46
+msgid "Diamond"
+msgstr ""
+
+#: includes/modules/toolbar.php:47
+msgid "Escheresque"
+msgstr ""
+
+#: includes/modules/toolbar.php:48
+msgid "Whitediamond"
+msgstr ""
+
+#: includes/modules/toolbar.php:51
+msgid "Colors "
+msgstr ""
+
+#: includes/modules/toolbar.php:55
+msgid "Red"
+msgstr ""
+
+#: includes/modules/toolbar.php:56
+msgid "Purple"
+msgstr ""
+
+#: includes/modules/toolbar.php:57
+msgid "Yellow"
+msgstr ""
+
+#: includes/modules/toolbar.php:58
+msgid "Green"
+msgstr ""
+
+#: includes/modules/toolbar.php:59
+msgid "Blue"
+msgstr ""
+
+#: includes/modules/toolbar.php:60
+msgid "Gray"
+msgstr ""
+
+#: includes/qode-custom-sidebar.php:16
+msgid "Custom Widget Area"
+msgstr ""
+
+#: includes/qode-custom-sidebar.php:40
+msgid "Enter Name of the new Widget Area"
+msgstr ""
+
+#: includes/qode-custom-sidebar.php:41
+msgid "Add Widget Area"
+msgstr ""
+
+#: includes/qode-dynamic-helper-functions.php:1447
+#: js/default_dynamic_callback.php:18
+msgid "Comment has been sent!"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: includes/qode-edit-custom-walker.php:78
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: includes/qode-edit-custom-walker.php:82
+msgid "%s (Pending)"
+msgstr ""
+
+#: includes/qode-edit-custom-walker.php:108
+msgid "Move up"
+msgstr ""
+
+#: includes/qode-edit-custom-walker.php:121
+msgid "Move down"
+msgstr ""
+
+#: includes/qode-edit-custom-walker.php:123
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/qode-edit-custom-walker.php:134
+msgid "URL"
+msgstr ""
+
+#: includes/qode-edit-custom-walker.php:141
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/qode-edit-custom-walker.php:147
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/qode-edit-custom-walker.php:154
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: includes/qode-edit-custom-walker.php:159
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/qode-edit-custom-walker.php:165
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/qode-edit-custom-walker.php:171
+msgid "Description"
+msgstr ""
+
+#: includes/qode-edit-custom-walker.php:173
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: includes/qode-edit-custom-walker.php:192
+msgid "Don't link"
+msgstr ""
+
+#: includes/qode-edit-custom-walker.php:202
+msgid "Don't show"
+msgstr ""
+
+#: includes/qode-edit-custom-walker.php:210
+msgid "wide"
+msgstr ""
+
+#: includes/qode-edit-custom-walker.php:211
+msgid "wide with icons"
+msgstr ""
+
+#: includes/qode-edit-custom-walker.php:230
+msgid "Only with \"wide with icons\" menu type"
+msgstr ""
+
+#: includes/qode-edit-custom-walker.php:237
+msgid "Custom widget area"
+msgstr ""
+
+#: includes/qode-edit-custom-walker.php:253
+msgid "Only with \"wide & wide with icons\" menu type"
+msgstr ""
+
+#: includes/qode-edit-custom-walker.php:262
+msgid "Original: %s"
+msgstr ""
+
+#: includes/qode-edit-custom-walker.php:275
+msgid "Remove"
+msgstr ""
+
+#: includes/qode-edit-custom-walker.php:276
+msgid "Cancel"
+msgstr ""
+
+#: includes/qode-plugin-helper-functions.php:543
+msgid "Home"
+msgstr ""
+
+#: includes/qode-plugin-helper-functions.php:575
+msgid "Search results for \""
+msgstr ""
+
+#: includes/qode-plugin-helper-functions.php:650
+msgid "Posts tagged \""
+msgstr ""
+
+#: includes/qode-plugin-helper-functions.php:655
+msgid "Articles posted by "
+msgstr ""
+
+#: includes/qode-plugin-helper-functions.php:658
+msgid "Error 404"
+msgstr ""
+
+#: includes/qode-plugin-helper-functions.php:662
+msgid "Page"
+msgstr ""
+
+#: includes/qode-plugin-helper-functions.php:1176
+#: includes/qode-plugin-helper-functions.php:1210
+#: vc_templates/vc_row.php:115
+#: vc_templates/vc_row_inner.php:115
+msgid "No video playback capabilities"
+msgstr ""
+
+#: includes/qode-plugin-helper-functions.php:1176
+#: includes/qode-plugin-helper-functions.php:1210
+#: vc_templates/vc_row.php:115
+#: vc_templates/vc_row_inner.php:115
+msgid "Video thumb"
+msgstr ""
+
+#: includes/widgets/qode-call-to-action-widget.php:7
+msgid "River Call To Action"
+msgstr ""
+
+#: includes/widgets/qode-call-to-action-widget.php:8
+msgid "Display a Call to Action element"
+msgstr ""
+
+#: includes/widgets/qode-call-to-action-widget.php:48
+msgid "Default button text"
+msgstr ""
+
+#: includes/widgets/qode-call-to-action-widget.php:49
+msgid "Default call to action text"
+msgstr ""
+
+#: includes/widgets/qode-call-to-action-widget.php:109
+msgid "Text:"
+msgstr ""
+
+#: includes/widgets/qode-call-to-action-widget.php:114
+msgid "Text Color:"
+msgstr ""
+
+#: includes/widgets/qode-call-to-action-widget.php:119
+msgid "Background Color:"
+msgstr ""
+
+#: includes/widgets/qode-call-to-action-widget.php:124
+msgid "Show Button:"
+msgstr ""
+
+#: includes/widgets/qode-call-to-action-widget.php:132
+msgid "Button Type:"
+msgstr ""
+
+#: includes/widgets/qode-call-to-action-widget.php:140
+msgid "Button Text:"
+msgstr ""
+
+#: includes/widgets/qode-call-to-action-widget.php:145
+msgid "Button Color:"
+msgstr ""
+
+#: includes/widgets/qode-call-to-action-widget.php:150
+msgid "Button Background Color:"
+msgstr ""
+
+#: includes/widgets/qode-call-to-action-widget.php:155
+msgid "Button Border Color:"
+msgstr ""
+
+#: includes/widgets/qode-call-to-action-widget.php:160
+msgid "Button Link:"
+msgstr ""
+
+#: includes/widgets/qode-call-to-action-widget.php:165
+msgid "Button Target:"
+msgstr ""
+
+#: includes/widgets/qode-call-to-action-widget.php:175
+msgid "Button Position:"
+msgstr ""
+
+#: includes/widgets/qode-flickr-widget.php:8
+msgid "River Flickr Widget"
+msgstr ""
+
+#: includes/widgets/qode-flickr-widget.php:92
+msgid "Invalid flickr username."
+msgstr ""
+
+#: includes/widgets/qode-flickr-widget.php:111
+msgid "Flickr Stream"
+msgstr ""
+
+#: includes/widgets/qode-flickr-widget.php:117
+#: includes/widgets/qode-latest-posts-menu.php:78
+#: includes/widgets/qode-relate-posts-widget.php:75
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/qode-flickr-widget.php:125
+msgid "Username:"
+msgstr ""
+
+#: includes/widgets/qode-flickr-widget.php:133
+msgid "Number of photos to show:"
+msgstr ""
+
+#: includes/widgets/qode-flickr-widget.php:141
+msgid "Type text under widget(Optional):"
+msgstr ""
+
+#: includes/widgets/qode-flickr-widget.php:149
+msgid "Image width:"
+msgstr ""
+
+#: includes/widgets/qode-flickr-widget.php:157
+msgid "Image Height:"
+msgstr ""
+
+#: includes/widgets/qode-latest-posts-menu.php:7
+msgid "River Menu Latest Posts"
+msgstr ""
+
+#: includes/widgets/qode-latest-posts-menu.php:8
+msgid "Display a list of your latest blog posts"
+msgstr ""
+
+#: includes/widgets/qode-latest-posts-menu.php:45
+msgid "Posted in"
+msgstr ""
+
+#: includes/widgets/qode-latest-posts-menu.php:46
+msgid " by"
+msgstr ""
+
+#: includes/widgets/qode-latest-posts-menu.php:82
+#: includes/widgets/qode-relate-posts-widget.php:79
+msgid "Number of posts:"
+msgstr ""
+
+#: includes/widgets/qode-latest-posts-menu.php:86
+msgid "Category:"
+msgstr ""
+
+#: includes/widgets/qode-latest-posts-menu.php:88
+msgid "All"
+msgstr ""
+
+#: includes/widgets/qode-relate-posts-widget.php:7
+msgid "River Related Posts"
+msgstr ""
+
+#: includes/widgets/qode-relate-posts-widget.php:8
+msgid "Display a list of your related blog posts"
+msgstr ""
+
+#: includes/widgets/qode-relate-posts-widget.php:14
+msgid "Related Posts"
+msgstr ""
+
+#: single-portfolio_page.php:88
+#: single-portfolio_page.php:170
+#: single-portfolio_page.php:261
+#: single-portfolio_page.php:292
+#: single-portfolio_page.php:375
+#: single-portfolio_page.php:455
+msgid "CATEGORY "
+msgstr ""
+
+#: single-portfolio_page.php:103
+#: single-portfolio_page.php:185
+#: single-portfolio_page.php:216
+#: single-portfolio_page.php:330
+#: single-portfolio_page.php:410
+msgid "ABOUT"
+msgstr ""
+
+#: title.php:77
+msgid " Tag"
+msgstr ""
+
+#: title.php:81
+msgid "Author: "
+msgstr ""
+
+#: title.php:85
+msgid "Archive"
+msgstr ""
+
+#: title.php:87
+msgid "Search: "
+msgstr ""
+
+#: title.php:89
+msgid "404"
+msgstr ""
+
+#: title.php:91
+msgid "Blog"
+msgstr ""
+
+#: title.php:121
+msgid "Page not found"
+msgstr ""
+
+#: title.php:133
+msgid "Title Image"
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:28
+#: vc_templates/vc_tab.php:10
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: vc_templates/vc_row.php:20
+#: vc_templates/vc_row_inner.php:20
+msgid "More Facts"
+msgstr ""
+
+#: vc_templates/vc_row.php:21
+#: vc_templates/vc_row_inner.php:21
+msgid "Less Facts"
+msgstr ""
+
+#: vc_templates/vc_tabs.php:55
+msgid "Previous slide"
+msgstr ""
+
+#: vc_templates/vc_tabs.php:55
+msgid "Next slide"
+msgstr ""

@@ -1,0 +1,241 @@
+/*
+Theme Name: River Father Theme 2021
+Theme URI: http://demo.qodeinteractive.com/river/
+Description: River Theme
+Tags: creative, portfolio, multi-purpose, clean, retina, responsive, wpml, parallax, background video, mega menu, blog, agency, infographics, art
+Author: Qode Interactive
+Author URI: http://www.qodeinteractive.com/
+Text Domain: river
+Version: 2.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+*/
+
+/*
+CSS changes can be made in files in the /css/ folder. This is a placeholder file required by WordPress, so do not delete it.
+
+2.4
+- Added WordPress 5.8.2 compatibility
+- Added PHP8 compatibility
+- Updated WPBakery Page Builder to 6.7.0
+- Updated Layer Slider to 7.0.5
+- Updated River Core plugin to 1.1
+- Fixed 'Bulk Select' functionality with Menus
+- Fixed Facebook Share
+- Fixed creation of the Custom Sidebars in new Widgets layout
+- Improved river_qode_get_attachment_id_from_url function
+- Removed Google Plus Share
+
+2.3
+- Added WordPress 5.5 compatibility
+- Updated WPBakery Page Builder to 6.4.2
+- Updated Layer Slider to 6.11.2
+
+2.2
+- Updated WPBakery Page Builder to 6.0.5
+- Updated Layer Slider to 6.9.2
+- Updated River Core plugin to 1.0.5
+
+2.1
+- Updated WPBakery Page Builder to 6.0.3
+- Updated Layer Slider to 6.8.4
+- Fixed Color Picker issue
+
+2.0.5
+- Updated River Core plugin to 1.0.4
+- Fixed portfolio categories taxonomy
+- Fixed Font Awesome icons style
+- Fixed undefined ajax variable when page transition is on
+
+2.0.4
+- Updated River Core plugin to 1.0.3
+- Updated river-core.pot and river.pot translation files
+- Improved theme security
+- Fixed minor bugs
+
+2.0.3
+- Updated River Core to 1.0.2
+- Fixed minor bugs
+
+2.0.2
+- Updated Layer Slider to 6.8.2
+- Updated River Core to 1.0.1
+- Fixed minor bugs
+
+2.0.1
+- Improved theme functions
+- Fixed contact page template
+
+2.0 (Major update)
+- Added WordPress 5.x compatibility
+- Added River Core plugin
+- Updated Visual Composer to version 5.7
+- Updated Layer Slider to 6.8.1
+- Improved theme templates, modules and functions
+- Improved theme security
+- Improved theme performance (Added logic to create static css, js files instead of php (style_dynamic.php, style_dynamic_responsive.php and default_dynamic.php))
+- Improved options image pop-up editor for dashboard panel
+- Improved google map script on contact page to prevent potential error if Google Map API key is not set
+- Improved comments list
+- Escaped all variables, text domains etc.
+- Renamed all functions, hooks, templates with unique name
+- Hide Qode SEO Fields meta box if option is disabled through Qode Options
+- Removed custom_css.php and custom_js.php files and improved logic to add custom code as inline
+- Removed unnecessary functions, variables etc.
+- Fixed theme text domain
+- Fixed bugs
+
+1.8.1
+- Added compatibility with Gutenberg plugin
+- Updated Visual Composer to version 5.5.2
+- Updated Layer Slider to 6.7.6
+
+1.8
+- Added Envato Market plugin as required
+- Updated Visual Composer to version 5.4.5
+- Updated Layer Slider to 6.6.4
+
+1.7.2
+- Updated Visual Composer to version 5.2
+- Updated Layer Slider to 6.5.5
+- Fixed https problem with links
+
+1.7.1
+- Updated Visual Composer to version 5.0.1
+- Updated Layer Slider to 6.0.6
+
+1.7
+- Added Google Maps API key field in Qode Options -> Global Options
+- Updated Visual Composer to 4.12.1
+- Updated Layer Slider to 5.6.10
+- Fixed border issue in Icon shortcode
+- Fixed Color Picker issue
+
+1.6.2
+- Updated Visual Composer to 4.12
+- Updated Layer Slider to 5.6.9
+- Updated TGM Plugin Activation to 2.6.1
+- Fixed Social Share functionality
+
+1.6.1
+- Updated Visual Composer to 4.11.2.1
+- Updated Layer Slider to 5.6.6
+
+1.6
+- Added WP 4.5 compatibility
+- Updated Layer Slider to 5.6.4
+
+1.5.2
+- Updated Visual Composer to 4.11.1
+- Fixed Google Map Warning for Sensor parameter no longer being required
+- Fixed bug with Portfolio List Columns option
+- Fixed issue with Blockquote element not rendering default blockquote text
+- Fixed issue with Custom Font element not saving default styling values
+
+1.5.1
+- Updated Visual Composer to 4.7.4
+- Updated Layer Slider to 5.6.2
+
+1.5
+- Updated Visual Composer to 4.5.2
+- Updated PrettyPhoto to 3.1.6
+- Updated Layer Slider to 5.4.0
+- Fixed prettyPhoto XSS
+
+1.4.3
+- Updated Visual Composer to 4.4.4
+- Updated TGM Plugin Activation class for security vulnerability
+- Fixed bug with registering custom sidebars in WordPress 4.2
+- Fixed bug with link and image style options for single image shortcode
+- Fixed bug with design options for row not working
+
+1.4.2
+- Fixed issue with Font Awesome icons array in admin
+
+1.4.1
+- Updated Visual Composer to version 4.4.3
+- Fixed loading issue with Font Awesome and latest version of Visual Composer
+
+1.4
+- Updated Visual Composer to version 4.4.2
+- Updated LayerSlider to version 5.3.2
+
+1.3
+- Improved page transition to register page loading with Google Analytics
+- Updated LayerSlider to version 5.2.0
+- Fixed dropdown menu position when boxed layout is enabled
+- Fixed bug with don't link option for menu items and page transitions
+- Fixed bug with click event with ctrl key pressed and page transitions
+
+1.2
+- Updated Visual Composer to Version 4.1.2 with custom work by Qode
+- Updated LayerSlider to version 5.1.1
+- Fixed WP 3.9 Qode Shortcodes bug
+- Fixed WP 3.9 Qode Options image browser field bug
+- Fixed flush_rewrite_rules() function to execute only on theme switch
+
+1.1
+- Added scroll on side menu area when content is higher than screen
+- Improved resize logic for wide menu
+- Updated mobile menu arrows, they are larger now and hover efect is disabled
+- Updated LayerSlider to version 5.0.2
+- Fixed bug with blog pagination on blog small image template
+- Fixed bug with portfolio circle list excerpt
+- Fixed bug with logo loading
+- Fixed bug with service element loading on page transitions
+- Fixed 'qode like' functionality on portfolios that are inerted via 'load more' functions
+- Fixed responsive bug when browser's width is less then 1100px
+- Fixed bug with menu on IE when animations are disabled
+- Fixed bug with 404 subtitle field in Qode options
+
+1.0.5
+- Improved resize stages and menu resizing on smaller screens
+- Updated LayerSlider to version 5.0.1
+- Fixed bug with Visual Composer css loading
+- Fixed some minor bugs with anchor active class
+- Fixed Google font inclusion bug
+- Fixed progress bar percentage position
+- Fixed circle portfolio list
+- Sorted font awesome icons
+
+1.0.4
+- Improved "viewport" metatag for non responsive sites
+- Fixed anchor logic when ajax loader is not on
+- Fixed anchor hash changing on same page
+- Fixed logic for getting logo height so it doesn't require allow_url_fopen directive to be enabled
+- Fixed a bug with latest blog shortcode regarding localization of the post dates
+- Fixed header height when side area is disabled
+- Fixed mobile menu active state
+- Fixed pagination on home.php file
+- Fixed rendering of P tags on "gallery" post format
+
+
+1.0.3
+- Added background color for mobile dropdown menu
+- Added functionality for side menu and mobile menu button color changing (takes color from first level menu, on smaller screens from mobile dropdown background color)
+- Improved mobile menu logic, now closing on menu item click
+- Fixed deliting of custom sidebars
+- Fixed steps attributes for line graph shortcode for Visual Composer
+- Fixed portfolio list for new version of Chrome
+- Fixed background color for Call to Action widget
+
+
+1.0.2
+- Added anchor functionality on parallax sections, custom links (manualy added class needed) and buttons
+- Added icon fade animation and delay attributes for icon with text shortcode
+- Added style for search widget in top header
+- Added entering animation on "centered" title type
+- Updated portfolio list shortcode to add one portfolio item per row
+- Updated smooth scroll on/off logic to choose between all devices and all without Mac devices (all devices are not including touch devices)
+- Fixed minor validation errors
+- Fixed category attribute in latest posts shortcode
+- Fixed blog responsiveness (social and like links)
+
+
+1.0.1
+- Fixed css animations (from top and bottom)
+- Fixed ajax loader color changing(first color)
+- Fixed layout for whole post blog type
+- Fixed single post layout for video type
+*/
